@@ -1,6 +1,6 @@
 # FLBuy setup
 
-Prerequisites
+Prerequisites:
   Stencil CLI
   NPM
 
