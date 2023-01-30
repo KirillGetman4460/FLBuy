@@ -1,7 +1,8 @@
-# FLBuy
+# FLBuy setup
 
 Prerequisites
   Stencil CLI
+  NPM
 
 Quick start:
   1. Download current theme bigcommerce
